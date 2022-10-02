@@ -6,7 +6,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>ImGuiSceneTest</RootNamespace>
     <AssemblyName>ImGuiSceneTest</AssemblyName>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TargetFramework>net6.0-windows</TargetFramework>
     <Platforms>x64</Platforms>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
